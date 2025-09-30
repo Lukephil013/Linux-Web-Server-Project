@@ -12,31 +12,31 @@ A home lab project exploring the basics of deploying an Nginx web server on Ubun
 
 ### Screenshots
 #### Nginx Service Status
-![Nginx Service Status](./screenshots/Nginx-service-status.png)
+![Nginx Service Status](./Screenshots/nginx-service-status.png)
 
 #### Browser – Nginx Default Page
-![Browser Nginx](./screenshots/browser-nginx.png)
+![Browser Nginx](./Screenshots/browser-nginx.png)
 
 #### Backup Script Creation
-![Create Backup Script](./screenshots/create-backup-script.png)
+![Create Backup Script](./Screenshots/create-backup-script.png)
 
 #### Running Backup Script
-![Run Backup Script](./screenshots/run-backup-script-output.png)
+![Run Backup Script](./Screenshots/run-backup-script-output.png)
 
 #### Crontab Configuration
-![Crontab Scripts](./screenshots/crontab-scripts.png)
+![Crontab Scripts](./Screenshots/crontab-scripts.png)
 
 #### Cron Logs
-![Cron Logs](./screenshots/cron-logs.png)
+![Cron Logs](./Screenshots/cron-logs.png)
 
 #### Backup Restore Test
-![Backup Restore](./screenshots/backup-restore.png)
+![Backup Restore](./Screenshots/backup-restore.png)
 
 #### Test Removal Script (Cleanup)
-![Test Removal Script](./screenshots/test-removal-script.png)
+![Test Removal Script](./Screenshots/test-removal-script.png)
 
 #### Port Forwarding
-![Port Forwarding](./screenshots/port-forwarding.png)
+![Port Forwarding](./Screenshots/port-forwarding.png)
 
 ---
 
